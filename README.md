@@ -10,3 +10,5 @@ Updated array and part of operator
 Updated the assignment operator and monocular operator
 # test_10_1
 Updated the last part of the operator 
+# test_10_2
+Updated one part of pointer
