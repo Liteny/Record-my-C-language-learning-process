@@ -12,3 +12,5 @@ Updated the assignment operator and monocular operator
 Updated the last part of the operator 
 # test_10_2
 Updated one part of pointer
+# test_10_3
+Updated the last part of pointer
