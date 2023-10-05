@@ -14,3 +14,5 @@ Updated the last part of the operator
 Updated one part of pointer
 # test_10_3
 Updated the last part of pointer
+# test_10_5
+Updated struct
