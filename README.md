@@ -16,3 +16,5 @@ Updated one part of pointer
 Updated the last part of pointer
 # test_10_5
 Updated struct
+# test_10_6
+Updated storage of shaping in memory
