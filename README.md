@@ -18,3 +18,5 @@ Updated the last part of pointer
 Updated struct
 # test_10_6
 Updated storage of shaping in memory
+# test_10_7
+Updated last part of storage of shaping in memory
