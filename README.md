@@ -22,3 +22,5 @@ Updated storage of shaping in memory
 Updated last part of data storage
 # test_10_8
 Updated memory alignment
+# test_10_9
+Updated structure parameter passing
